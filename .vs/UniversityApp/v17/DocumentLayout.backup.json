@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\storage\\peopleregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:storage\\peopleregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\dataaccess\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:dataaccess\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\services\\notificationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:services\\notificationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\notificationcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\notificationcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\notificationreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\notificationreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\inotificationreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\inotificationreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\prioritynotificationcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\prioritynotificationcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\dataaccess\\teachersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:dataaccess\\teachersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\services\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:services\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|c:\\users\\mmy02\\source\\repos\\universityapp\\dataaccess\\istudentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EF2C05-3D11-45E0-9EED-9B06C9814893}|UniversityApp.csproj|solutionrelative:dataaccess\\istudentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:17:26.543Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:52:00.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJcBAAAAAAAAAAAmwLMBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:48:51.982Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:54:48.507Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:52:09.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Services\\University.cs",
+              "RelativeDocumentMoniker": "Services\\University.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Services\\University.cs",
+              "RelativeToolTip": "Services\\University.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:51:46.317Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\DataAccess\\StudentsRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\StudentsRepository.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\DataAccess\\StudentsRepository.cs",
+              "RelativeToolTip": "DataAccess\\StudentsRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:56:32.276Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeachersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\DataAccess\\TeachersRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\TeachersRepository.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\DataAccess\\TeachersRepository.cs",
+              "RelativeToolTip": "DataAccess\\TeachersRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:19:29.026Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:10:27.994Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "Models\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\EmailNotification.cs",
+              "RelativeToolTip": "Models\\EmailNotification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:13:02.508Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SmsNotification.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\SmsNotification.cs",
+              "RelativeDocumentMoniker": "Models\\SmsNotification.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\SmsNotification.cs",
+              "RelativeToolTip": "Models\\SmsNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:13:53.662Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PushNotification.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\PushNotification.cs",
+              "RelativeDocumentMoniker": "Models\\PushNotification.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\PushNotification.cs",
+              "RelativeToolTip": "Models\\PushNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:15:28.133Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationContainer.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\NotificationContainer.cs",
+              "RelativeDocumentMoniker": "Models\\NotificationContainer.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\NotificationContainer.cs",
+              "RelativeToolTip": "Models\\NotificationContainer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:52:26.342Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PriorityNotificationContainer.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\PriorityNotificationContainer.cs",
+              "RelativeDocumentMoniker": "Models\\PriorityNotificationContainer.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\PriorityNotificationContainer.cs",
+              "RelativeToolTip": "Models\\PriorityNotificationContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:53:36.385Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INotificationReader.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\INotificationReader.cs",
+              "RelativeDocumentMoniker": "Models\\INotificationReader.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\INotificationReader.cs",
+              "RelativeToolTip": "Models\\INotificationReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:55:05.255Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationReader.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\NotificationReader.cs",
+              "RelativeDocumentMoniker": "Models\\NotificationReader.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Models\\NotificationReader.cs",
+              "RelativeToolTip": "Models\\NotificationReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:57:17.109Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStudentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\DataAccess\\IStudentsRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\IStudentsRepository.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\DataAccess\\IStudentsRepository.cs",
+              "RelativeToolTip": "DataAccess\\IStudentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:52:20.667Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationCenter.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Services\\NotificationCenter.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationCenter.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Services\\NotificationCenter.cs",
+              "RelativeToolTip": "Services\\NotificationCenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:16:18.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Storage\\PeopleRegistry.cs",
+              "RelativeDocumentMoniker": "Storage\\PeopleRegistry.cs",
+              "ToolTip": "C:\\Users\\mmy02\\source\\repos\\UniversityApp\\Storage\\PeopleRegistry.cs",
+              "RelativeToolTip": "Storage\\PeopleRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:52:30.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
